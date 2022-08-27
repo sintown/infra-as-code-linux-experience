@@ -1,7 +1,8 @@
 #!/bin/bash
 
 cd /
-cd /home
+mkdir Departamentos
+cd Departamentos
 pwd
 
 # criando os diretórios dentro da pasta home
