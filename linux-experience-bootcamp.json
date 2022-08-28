@@ -1,0 +1,26 @@
+{
+    "bootcamp":"Linux Experience",
+    "url":"https://web.dio.me/track/linux-experience",
+    "start":"2022-07",
+    "end":"2022-08-28",
+    "modules":{
+       "Primeiros passos com o Sistema Operacional Linux":[
+          "Introdução ao Sistema Operacional Linux",
+          "Instalando o Linux",
+          "Acesso Remoto a Máquinas Linux",
+          "Manipulando Arquivos no Linux",
+          "Gerenciando Usuários no Linux",
+          "Gerenciamento de Pacotes Linux",
+          "Gerenciamento de Discos Linux",
+          "Copiando Arquivos e Manipulando Processos",
+          "Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões"
+       ],
+       "Configurando Servidores Linux":[
+          "Servidores de Arquivos com Linux",
+          "Criando um Servidor Web com Linux",
+          "Servidor de Banco de Dados com Linux",
+          "Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)",
+          "Docker: Utilização Prática no Cenário de Microsserviços"
+       ]
+    }
+}
