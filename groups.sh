@@ -5,9 +5,9 @@ mkdir Departamentos
 cd Departamentos
 pwd
 
-# criando os diretórios dentro da pasta home
+# criando os diretórios dentro da pasta Departamentos
 
-echo "criando departamentos na pasta home.."
+echo "criando os departamentos dentro da pasta Departamentos.."
 mkdir publico adm ven sec
 
 # criando os grupos
